@@ -134,10 +134,7 @@ The dashboard is designed to answer key questions such as:
 ---
 
 ## 📸 Dashboard Preview
-
-> Screenshots of all dashboard pages are included in the `Screenshots/` folder.
-
----
+https://app.powerbi.com/view?r=eyJrIjoiMDcwMTQyYjQtYmJmYi00NjVmLTgxZTMtM2U1ODFjMmZhMjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 📜 License
 
